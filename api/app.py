@@ -6,4 +6,4 @@ CORS(app)
 
 @app.route("/api")
 def index():
-    return jsonify({"message": "Flask API connected on Render!"})
+    return jsonify({"message": "Welcome to Coding Craft YT Channel!"})
